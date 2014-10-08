@@ -1,7 +1,7 @@
 Pystk
 -------------------------------------------------------
 
-Grabs stock price info and store in mongo database so you can play with the data.
+Grabs stock price info and storeis in mongo database so you can play with the data later.
 
 Features 
 -------------------------------------------------------
